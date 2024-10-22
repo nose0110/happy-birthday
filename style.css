@@ -7,7 +7,6 @@ body {
     padding: 0;
     background-image: url('mine.jpg'); /* Cambia esta ruta */
     background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el contenedor */
-    background-position: center; /* Centra la imagen */
     color: #333; /* Color del texto */
 }
 ::selection {
